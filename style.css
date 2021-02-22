@@ -1,8 +1,9 @@
+
 body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
-  background: #ffc63f;
+  background: linear-gradient(to top right, rgb(233, 176, 72), rgb(216, 99, 99));
 }
 .title {
   font-size: 36px;
